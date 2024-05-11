@@ -1,0 +1,122 @@
+[
+    {
+        "indeks": 1,
+        "pytanie": "Co to jest Python?",
+        "odpowiedzi": ["A. Ksiazka", "B. Ptak", "C. Jezyk programowania", "D. Ksztalt matematyczny"],
+        "poprawna": "C"
+    },
+    {
+        "indeks": 2,
+        "pytanie": "Jaki operator jest uzywany do porownywania rownosci w Pythonie?",
+        "odpowiedzi": ["A. ==", "B. =", "C. !=", "D. >"],
+        "poprawna": "A"
+    },
+    {
+        "indeks": 3,
+        "pytanie": "Jakie sa trzy podstawowe struktury danych w Pythonie?",
+        "odpowiedzi": ["A. List, Tuple, Dictionary", "B. If, Else, Elif", "C. For, While, Do", "D. Int, Float, String"],
+        "poprawna": "A"
+    },
+    {
+        "indeks": 4,
+        "pytanie": "Co robi instrukcja break w petli?",
+        "odpowiedzi": ["A. Konczy cala program", "B. Przechodzi do kolejnej iteracji petli", "C. Konczy petle natychmiast", "D. Zmienia wartosc zmiennej"],
+        "poprawna": "C"
+    },
+    {
+        "indeks": 5,
+        "pytanie": "Jakie jest znaczenie skrotu \"HTML\"?",
+        "odpowiedzi": ["A. HyperText Markup Language", "B. High-Level Text Machine Language", "C. Hyperlink and Text Markup Language", "D. Home Tool Markup Language"],
+        "poprawna": "A"
+    },
+    {
+        "indeks": 6,
+        "pytanie": "Ktora z ponizszych struktur danych jest niemodyfikowalna?",
+        "odpowiedzi": ["A. List", "B. Tuple", "C. Dictionary", "D. Set"],
+        "poprawna": "B"
+    },
+    {
+        "indeks": 7,
+        "pytanie": "Jakie jest znaczenie skrotu \"API\"?",
+        "odpowiedzi": ["A. Advanced Programming Interface", "B. Application Programming Interface", "C. Advanced Protocol Interface", "D. Application Protocol Interface"],
+        "poprawna": "B"
+    },
+    {
+        "indeks": 8,
+        "pytanie": "Jakie sa dwa tryby otwierania pliku w Pythonie?",
+        "odpowiedzi": ["A. Read i Write", "B. Open i Close", "C. Load i Save", "D. Input i Output"],
+        "poprawna": "A"
+    },
+    {
+        "indeks": 9,
+        "pytanie": "Co to jest Git?",
+        "odpowiedzi": ["A. Rodzaj bledu w programowaniu", "B. System kontroli wersji", "C. Krotki kod w jezyku Python", "D. Skrot od Global Internet Technology"],
+        "poprawna": "B"
+    },
+    {
+        "indeks": 10,
+        "pytanie": "Jakie jest znaczenie skrotu \"SQL\"?",
+        "odpowiedzi": ["A. Simple Question Language", "B. Structured Query Language", "C. System Query Language", "D. Server Question Language"],
+        "poprawna": "B"
+    },
+    {
+        "indeks": 11,
+        "pytanie": "W Pythonie, co robi funkcja len()?",
+        "odpowiedzi": ["A. Zwraca liczbe elementow w liscie, krotce, czy slowniku", "B. Oblicza dlugosc tekstu w znakach", "C. Okresla maksymalna dlugosc listy", "D. Zamyka program"],
+        "poprawna": "A"
+    },
+    {
+        "indeks": 12,
+        "pytanie": "Ktora z ponizszych nie jest struktura sterujaca w Pythonie?",
+        "odpowiedzi": ["A. If", "B. Else", "C. Switch", "D. Elif"],
+        "poprawna": "C"
+    },
+    {
+        "indeks": 13,
+        "pytanie": "Co to jest Python PIP?",
+        "odpowiedzi": ["A. Skrot od Python Install Package", "B. Program do rysowania w Pythonie", "C. Poczatkowe instrukcje Pythona", "D. Python Interactive Playground"],
+        "poprawna": "A"
+    },
+    {
+        "indeks": 14,
+        "pytanie": "Jakie sa zalety korzystania z funkcji w programowaniu?",
+        "odpowiedzi": ["A. Skracanie kodu, unikanie powtorzen, ulatwianie zrozumienia kodu", "B. Zwiekszanie dlugosci kodu, komplikowanie logiki programu", "C. Zmniejszanie wydajnosci programu", "D. Powodowanie bledow w kodzie"],
+        "poprawna": "A"
+    },
+    {
+        "indeks": 15,
+        "pytanie": "Co oznacza skrot \"OOP\"?",
+        "odpowiedzi": ["A. Object Oriented Programming", "B. Ordinary Output Processing", "C. Online Object Processing", "D. Output Oriented Programming"],
+        "poprawna": "A"
+    },
+    {
+        "indeks": 16,
+        "pytanie": "Co to jest w Pythonie \"lambda\"?",
+        "odpowiedzi": ["A. Nazwa popularnego frameworka", "B. Specjalny operator do tworzenia funkcji anonimowych", "C. Nazwa modulu do obslugi daty i czasu", "D. Slowo kluczowe do tworzenia listy"],
+        "poprawna": "B"
+    },
+    {
+        "indeks": 17,
+        "pytanie": "Ktore z ponizszych nie jest typem danych w Pythonie?",
+        "odpowiedzi": ["A. Float", "B. Complex", "C. Long", "D. Int32"],
+        "poprawna": "D"
+    },
+    {
+        "indeks": 18,
+        "pytanie": "Jakie jest znaczenie skrotu \"URL\"?",
+        "odpowiedzi": ["A. Universal Resource Locator", "B. Uniform Retrieval Locator", "C. Universal Retrieval Link", "D. Uniform Resource Link"],
+        "poprawna": "A"
+    },
+    {
+        "indeks": 19,
+        "pytanie": "Ktora z ponizszych jest wlasnoscia zbioru w Pythonie?",
+        "odpowiedzi": ["A. Przechowuje elementy w porzadku", "B. Moze zawierac duplikaty", "C. Jest niemodyfikowalny", "D. Elementy sa indeksowane"],
+        "poprawna": "C"
+    },
+    {
+        "indeks": 20,
+        "pytanie": "Jakie jest znaczenie skrotu \"IDE\" w kontekscie programowania?",
+        "odpowiedzi": ["A. Integrated Development Environment", "B. Intelligent Design Environment", "C. Interactive Development Environment", "D. Interface Design Environment"],
+        "poprawna": "A"
+    }
+]

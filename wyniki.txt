@@ -1,0 +1,5 @@
+Janek: 4
+Radosław: 1
+Krzysiek: 10
+Julian: 20
+
